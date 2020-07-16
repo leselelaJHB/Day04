@@ -6,7 +6,7 @@
 /*   By: leselela <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/16 08:06:40 by leselela          #+#    #+#             */
-/*   Updated: 2020/07/16 11:22:32 by leselela         ###   ########.fr       */
+/*   Updated: 2020/07/16 11:28:40 by leselela         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,9 +23,4 @@ int		ft_iteractive_factorial(int nb)
 	{
 		return 0;
 	}
-}	
-
-int		main(void)
-{
-	printf("%d\n", ft_iteractive_factorial(0));
 }
